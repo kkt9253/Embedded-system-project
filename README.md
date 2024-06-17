@@ -1,5 +1,11 @@
 # Embedded-system-project
 2023_임베디드시스템_팀프로젝트
+
+## 파트 
+사람유무판별 시스템 및 기획 : 김경탁
+평상시 안내 시스템 : 염준선, 김수하
+화재감지 시스템 : 양기석, 한문섭
+
 ### 기획의도
 ![1_기획의도](https://github.com/kkt9253/Embedded-system-project/assets/71701866/18edb972-d585-4a4e-9a98-1c2dd54bf1f0)
 ### 기능
